@@ -204,3 +204,6 @@ msgstr "藍牙"
 
 msgid  "Connecting ..."
 msgstr "正在連結 ..."
+
+msgid  "set as default"
+msgstr "設為預設"
