@@ -186,3 +186,21 @@ msgstr "電池"
 
 msgid  "Set As Default Control Interface"
 msgstr "設為預設控制界面"
+
+msgid  "Power"
+msgstr "電源"
+
+msgid  "On"
+msgstr "開"
+
+msgid  "Off"
+msgstr "關"
+
+msgid  "Hidden"
+msgstr "隱藏"
+
+msgid  "Bluetooth"
+msgstr "藍牙"
+
+msgid  "Connecting ..."
+msgstr "正在連結 ..."
